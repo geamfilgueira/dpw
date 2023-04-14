@@ -1,0 +1,37 @@
+<?php 
+
+function receber($valor){
+    $s= 2;
+    return $a;
+
+        $s= 5;
+        
+        return $b;
+
+        if ( $b > $a ) 
+
+            echo '$b é maior que $a';
+        
+            $s= 7;
+
+            return $c;
+
+            $s= 8;
+            return $d;
+
+            $s= 9;
+            return $e;
+}
+
+  $num1 = $_GET['num1'];
+  $num2 = $_GET['num2'];
+  $num2 = $_GET['num3'];
+  $num2 = $_GET['num4'];
+  $num2 = $_GET['num5'];
+  
+  $media = ($num1 + $num2)/2;
+  
+  echo "Média: $media";
+ ?>
+ </body>
+</html>

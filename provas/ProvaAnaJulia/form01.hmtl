@@ -1,0 +1,23 @@
+<html>
+<body>
+
+<h1>Questao 01</h1>
+
+<form action="q01.php" method="post">
+Numero 01: <input type='' name='n1'/> <br>
+Numero 02: <input type='' name='n2'/> <br>
+Numero 03: <input type='' name='n3'/> <br>
+Numero 04: <input type='' name='n4'/> <br>
+Numero 05: <input type='' name='n5'/> <br>
+Numero 06: <input type='' name='n6'/> <br>
+Numero 07: <input type='' name='n7'/> <br>
+Numero 08: <input type='' name='n8'/> <br>
+Numero 09: <input type='' name='n9'/> <br>
+Numero 10: <input type='' name='n10'/> <br>
+< input type= 'submit'/>
+</form>
+
+<a href='index.hml' > Página inicial </a> <br>
+
+</body>
+</html>
